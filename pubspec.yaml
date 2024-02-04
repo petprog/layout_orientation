@@ -1,7 +1,7 @@
 name: layout_orientation
 description: Simple widget that allows to set layout orientation.
 version: 0.0.1
-homepage:
+homepage: https://github.com/petprog/layout_orientation
 
 environment:
   sdk: ">=3.0.5 <4.0.0"
